@@ -32,7 +32,7 @@ export const navigationConfig: NavigationConfig = {
     { label: "About", href: "#about" },
     { label: "Services", href: "#services" },
     { label: "Portfolio", href: "#portfolio" },
-    { label: "Testimonials", href: "#testimonials" },
+    // { label: "Testimonials", href: "#testimonials" },
   ],
   contactLabel: "Let's Talk",
   contactHref: "#contact",
